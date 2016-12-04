@@ -1,0 +1,44 @@
+mapVersion=3
+40
+Labyrinth
+8
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+Y               YRRRR                  Y
+Y             2 YRRRR                  Y
+Y  Y            YYYYYYYYYYYYYYYYYYYYY  Y
+Y  Y  YYYYYYYYYYY                      Y
+Y  Y  Y                                Y
+Y  Y  Y            YYYYYYYYYYYYYYYYY   Y
+Y  Y  Y  YYYYYYYYYYY  Y            Y   Y
+Y  Y  Y  Y            Y            Y   Y
+Y  Y  Y  Y            Y  YYYYYYYY  Y   Y
+Y  Y  Y  Y  YYYYYYY   Y  Y      Y  Y   Y
+Y  Y  Y  Y        Y   Y  Y      Y  Y   Y
+Y  Y  Y  Y        Y   Y  Y   Y  Y  Y   Y
+Y  Y  Y  Y        Y   Y  Y   Y  Y  Y   Y
+Y  Y  Y  YYYYYYY  Y   Y  Y   Y  Y  Y 3 Y
+Y  Y  Y           Y   Y  Y   Y  Y  Y   Y
+Y  Y  Y           Y   Y      Y  Y  YYYYY
+Y  Y  YYYYYYYYYYYYY   Y      Y  Y   YRRY
+Y  Y  Y               YYYYYYYY  Y   YRRY
+YRRY  Y                         YY  YRRY
+YRRY  YY                         Y  YRRY
+YRRY   Y  YYYYYYYY               Y  Y  Y
+YRRY   Y  Y      Y   YYYYYYYYYYYYY  Y  Y
+YYYYY  Y  Y      Y   Y           Y  Y  Y
+Y   Y  Y  Y   Y  Y   Y           Y  Y  Y
+Y 1 Y  Y  Y   Y  Y   Y  YYYYYYY  Y  Y  Y
+Y   Y  Y  Y   Y  Y   Y        Y  Y  Y  Y
+Y   Y  Y  Y   Y  Y   Y        Y  Y  Y  Y
+Y   Y  Y      Y  Y   Y        Y  Y  Y  Y
+Y   Y  Y      Y  Y   YYYYYYY  Y  Y  Y  Y
+Y   Y  YYYYYYYY  Y            Y  Y  Y  Y
+Y   Y            Y            Y  Y  Y  Y
+Y   Y            Y  YYYYYYYYYYY  Y  Y  Y
+Y   YYYYYYYYYYYYYYYYY            Y  Y  Y
+Y                                Y  Y  Y
+Y                      YYYYYYYYYYY  Y  Y
+Y  YYYYYYYYYYYYYYYYYYYYY            Y  Y
+Y                  RRRRY 4             Y
+Y                  RRRRY               Y
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY

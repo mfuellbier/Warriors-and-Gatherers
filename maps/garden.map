@@ -1,0 +1,103 @@
+mapVersion=3
+100
+Test
+40
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+YRRRR              Y                                                           Y              RRRRY
+YRRRR              Y                            XRX                            Y              RRRRY
+YRRRR  YYYYYYYYYY  Y    Y     XXXX     Y    XXXXXXXXXXX    Y     XXXX     Y    Y  YYYYYYYYYY  RRRRY
+YRRRR  Y           Y    YY     XX     YY                   YY     XX     YY    Y           Y  RRRRY
+Y      Y           Y    YXY          YXY                   YXY          YXY    Y           Y      Y
+Y      Y  YYYYYYYYYY    YXXY        YXXY    YYYY   YYYY    YXXY        YXXY    YYYYYYYYYY  Y      Y
+Y  YYYYY                YXXXY      YXXXY    Y         Y    YXXXY      YXXXY                YYYYY  Y
+Y  Y    Y               YXXXXYRRRRYXXXXY    Y         Y    YXXXXYRRRRYXXXXY               Y    Y  Y
+Y  Y     YYYYYYYYYYY    YXXXXXYRRYXXXXXY    Y  XXXXX  Y    YXXXXXYRRYXXXXXY    YYYYYYYYYYY     Y  Y
+Y  Y  Y  YXXXXXXXXXY    YYYYYYYYYYYYYYYY    Y  XRRRX  Y    YYYYYYYYYYYYYYYY    YXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXY                      YYY  X   X  YYY                      YXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXY                      Y             Y                      YXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXY                 YYYYYY             YYYYYY                 YXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXYYYYYYYYYYY       Y       YYYY YYYY       Y       YYYYYYYYYYYXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXY            YYYYYY       Y       Y       YYYYYY            YXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXY            Y       YYYYYY       YYYYYY       Y            YXXXXXXXXXY  Y  Y  Y
+Y     Y  YXXXXXXXXXY  YYYYYYYYYYY       Y       YYY       Y       YYYYYYYYYYY  YXXXXXXXXXY  Y     Y
+Y     Y  YXXXXXXXXXY           YY  YYYYYY       YXY       YYYYYY  YY           YXXXXXXXXXY  Y     Y
+YYYYYYY  YYYYYYYYYYY           YR  Y        YY  YYY  YY        Y  RY           YYYYYYYYYYY  YYYYYYY
+Y             Y     Y YYYYYY   YRRRY      YYXY       YXYY      YRRRY   YYYYYY Y     Y             Y
+Y             Y      YR        YYYYY  Y  YXXXY       YXXXY  Y  YYYYY        RY      Y             Y
+Y             Y  Y  YR                YRRYYYYYYY   YYYYYYYRRY                RY  Y  Y             Y
+Y             Y  Y  Y                 YRRY               YRRY                 Y  Y  Y             Y
+Y  YYYYYYYY   Y  Y  Y         YYYYYYYYYYYY               YYYYYYYYYYYY         Y  Y  Y   YYYYYYYY  Y
+Y   YXXXXXY   Y  Y  Y    XXX  Y             YYYYYYYYYYY             Y  XXX    Y  Y  Y   YXXXXXY   Y
+Y    YXXXXY   Y  Y  Y    XXX  Y             YXXXXXXXXXY             Y  XXX    Y  Y  Y   YXXXXY    Y
+Y     YXXXY   Y  Y  Y    XXX  Y             YXXXXXXXXXY             Y  XXX    Y  Y  Y   YXXXY     Y
+Y      YXXY   Y  Y               XXXXXX     YXXXXYXXXXY     XXXXXX               Y  Y   YXXY      Y
+Y       YXY   Y  Y                    X     YXXXYRYXXXY     X                    Y  Y   YXY       Y
+Y  X    RYY      Y      YYYY          X     YXXY   YXXY     X          YYYY      Y      YYR    X  Y
+Y  XX   RRY      YYYYY  Y      YYYYY  X  Y  YYYY   YYYY  Y  X  YYYYY      Y  YYYYY      YRR   XX  Y
+Y  XX   RRY    YYYYRRY  Y      YXXXY  X  Y               Y  X  YXXXY      Y  YRRYYYY    YRR   XX  Y
+Y  X    RYY    Y    RY  Y   X  YXXXY  X  Y               Y  X  YXXXY  X   Y  YR    Y    YYR    X  Y
+Y       YXY    Y    RY  Y   X  YXXXY  X  Y  YYYYYYYYYYY  Y  X  YXXXY  X   Y  YR    Y    YXY       Y
+Y      YXXY    Y  YYYY  Y   X  YYYYY  X  Y               Y  X  YYYYY  X   Y  YYYY  Y    YXXY      Y
+Y     YXXXY    Y  Y     Y   X        RX  Y               Y  XR        X   Y     Y  Y    YXXXY     Y
+Y    YXXXXY  YYY  Y     Y   X       RRX   YYY         YYY   XRR       X   Y     Y  YYY  YXXXXY    Y
+Y   YXXXXXY  Y    Y  YYYY   XXXXXXXXXXX      Y   2   Y      XXXXXXXXXXX   YYYY  Y    Y  YXXXXXY   Y
+Y  YYYYYYYY  Y    Y   RRY              X      Y     Y      X              YRR   Y    Y  YYYYYYYY  Y
+Y            Y  YYY   RRY               X      Y   Y      X               YRR   YYY  Y            Y
+Y            Y  Y    YYYY      YYYYYY    X      YYY      X    YYYYYY      YYYY    Y  Y            Y
+Y          YYY  Y   YXY              Y    X      Y      X    Y              YXY   Y  YYY          Y
+Y          Y    Y   YXY              Y     X     Y     X     Y              YXY   Y    Y          Y
+Y  X  YYYYYY    Y  YXXY  YYYYYYY  Y  Y      XXX  Y  XXX      Y  Y  YYYYYYY  YXXY  Y    YYYYYY  X  Y
+Y  X  Y       YYY  YYYY  YXXXXXY  Y   Y     XXX  Y  XXX     Y   Y  YXXXXXY  YYYY  YYY       Y  X  Y
+Y  X  Y       Y       Y  YXXXXXY  Y    Y    XXX     XXX    Y    Y  YXXXXXY  Y       Y       Y  X  Y
+Y  X  Y  XXX  Y       Y  YXXXXYY  Y     Y                 Y     Y  YYXXXXY  Y       Y  XXX  Y  X  Y
+Y XX     XR   Y  YYY     YXXXY    Y      Y       R       Y      Y    YXXXY     YYY  Y   RX     XX Y
+Y RX     XR      YXY     YXXYR    Y   1  YYYYY  RXR  YYYYY  3   Y    RYXXY     YXY      RX     XR Y
+Y XX     XR   Y  YYY     YXXXY    Y      Y       R       Y      Y    YXXXY     YYY  Y   RX     XX Y
+Y  X  Y  XXX  Y       Y  YXXXXYY  Y     Y                 Y     Y  YYXXXXY  Y       Y  XXX  Y  X  Y
+Y  X  Y       Y       Y  YXXXXXY  Y    Y    XXX     XXX    Y    Y  YXXXXXY  Y       Y       Y  X  Y
+Y  X  Y       YYY  YYYY  YXXXXXY  Y   Y     XXX  Y  XXX     Y   Y  YXXXXXY  YYYY  YYY       Y  X  Y
+Y  X  YYYYYY    Y  YXXY  YYYYYYY  Y  Y      XXX  Y  XXX      Y  Y  YYYYYYY  YXXY  Y    YYYYYY  X  Y
+Y          Y    Y  YXXY              Y     X     Y     X     Y              YXY   Y    Y          Y
+Y          YYY  Y   YXY              Y    X      Y      X    Y              YXY   Y  YYY          Y
+Y            Y  Y    YYYY      YYYYYY    X      YYY      X    YYYYYY      YYYY    Y  Y            Y
+Y            Y  YYY   RRY               X      Y   Y      X               YRR   YYY  Y            Y
+Y  YYYYYYYY  Y    Y   RRY              X      Y     Y      X              YRR   Y    Y  YYYYYYYY  Y
+Y   YXXXXXY  Y    Y  YYYY   XXXXXXXXXXX      Y   4   Y      XXXXXXXXXXX   YYYY  Y    Y  YXXXXXY   Y
+Y    YXXXXY  YYY  Y     Y   X       RRX   YYY         YYY   XRR       X   Y     Y  YYY  YXXXXY    Y
+Y     YXXXY    Y  Y     Y   X        RX  Y               Y  XR        X   Y     Y  Y    YXXXY     Y
+Y      YXXY    Y  YYYY  Y   X  YYYYY  X  Y               Y  X  YYYYY  X   Y  YYYY  Y    YXXY      Y
+Y       YXY    Y    RY  Y   X  YXXXY  X  Y  YYYYYYYYYYY  Y  X  YXXXY  X   Y  YR    Y    YXY       Y
+Y  X    RYY    Y    RY  Y   X  YXXXY  X  Y               Y  X  YXXXY  X   Y  YR    Y    YYR    X  Y
+Y  XX   RRY    YYYYRRY  Y      YXXXY  X  Y               Y  X  YXXXY      Y  YRRYYYY    YRR   XX  Y
+Y  XX   RRY      YYYYY  Y      YYYYY  X  Y  YYYY   YYYY  Y  X  YYYYY      Y  YYYYY      YRR   XX  Y
+Y  X    RYY      Y      YYYY          X     YXXY   YXXY     X          YYYY      Y      YYR    X  Y
+Y       YXY   Y  Y                    X     YXXXYRYXXXY     X                    Y  Y   YXY       Y
+Y      YXXY   Y  Y               XXXXXX     YXXXXYXXXXY     XXXXXX               Y  Y   YXXY      Y
+Y     YXXXY   Y  Y  Y    XXX  Y             YXXXXXXXXXY             Y  XXX    Y  Y  Y   YXXXY     Y
+Y    YXXXXY   Y  Y  Y    XXX  Y             YXXXXXXXXXY             Y  XXX    Y  Y  Y   YXXXXY    Y
+Y   YXXXXXY   Y  Y  Y    XXX  Y             YYYYYYYYYYY             Y  XXX    Y  Y  Y   YXXXXXY   Y
+Y  YYYYYYYY   Y  Y  Y         YYYYYYYYYYYY               YYYYYYYYYYYY         Y  Y  Y   YYYYYYYY  Y
+Y             Y  Y  Y                 YRRY               YRRY                 Y  Y  Y             Y
+Y             Y  Y  YR                YRRYYYYYYY   YYYYYYYRRY                RY  Y  Y             Y
+Y             Y      YR        YYYYY  Y  YXXXY       YXXXY  Y  YYYYY        RY      Y             Y
+Y             Y     Y YYYYYYY  YRRRY      YYXY       YXYY      YRRRY   YYYYYY Y     Y             Y
+YYYYYYY  YYYYYYYYYYY           YR  Y        YY  YYY  YYY       Y  RY           YYYYYYYYYYY  YYYYYYY
+Y     Y  YXXXXXXXXXY           YY  YYYYYY       YXY       YYYYYY  YY           YXXXXXXXXXY  Y     Y
+Y     Y  YXXXXXXXXXY  YYYYYYYYYYY       Y       YYY       Y       YYYYYYYYYYY  YXXXXXXXXXY  Y     Y
+Y  Y  Y  YXXXXXXXXXY            Y       YYYYYY       YYYYYY       Y            YXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXY            YYYYYY       Y       Y       YYYYYY            YXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXYYYYYYYYYYY       Y       YYYY YYYY       Y       YYYYYYYYYYYXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXY                 YYYYYY             YYYYYY                 YXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXY                      Y             Y                      YXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXY                      YYY  X   X  YYY                      YXXXXXXXXXY  Y  Y  Y
+Y  Y  Y  YXXXXXXXXXY    YYYYYYYYYYYYYYYY    Y  XRRRX  Y    YYYYYYYYYYYYYYYY    YXXXXXXXXXY  Y  Y  Y
+Y  Y     YYYYYYYYYYY    YXXXXXYRRYXXXXXY    Y  XXXXX  Y    YXXXXXYRRYXXXXXY    YYYYYYYYYYY     Y  Y
+Y  Y    Y               YXXXXYRRRRYXXXXY    Y         Y    YXXXXYRRRRYXXXXY               Y    Y  Y
+Y  YYYYY                YXXXY      YXXXY    Y         Y    YXXXY      YXXXY                YYYYY  Y
+Y      Y  YYYYYYYYYY    YXXY        YXXY    YYYY   YYYY    YXXY        YXXY    YYYYYYYYYY  Y      Y
+Y      Y           Y    YXY          YXY                   YXY          YXY    Y           Y      Y
+YRRRR  Y           Y    YY     XX     YY                   YY     XX     YY    Y           Y  RRRRY
+YRRRR  YYYYYYYYYYY Y    Y     XXXX     Y    XXXXXXXXXXX    Y     XXXX     Y    Y  YYYYYYYYYY  RRRRY
+YRRRR              Y                            XRX                            Y              RRRRY
+YRRRR              Y                                                           Y              RRRRY
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY

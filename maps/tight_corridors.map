@@ -1,0 +1,54 @@
+mapVersion=3
+50
+Tight Corridors
+16
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+Y                                                Y
+Y 1  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  2 Y
+Y    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    Y
+Y    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    Y
+Y    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    Y
+Y    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    Y
+Y         Y                             Y        Y
+Y         Y                             Y        Y
+YXXXXXXX  Y  Y                       Y  Y  XXXXXXY
+YXXXXXXX  Y  YR                     RY  Y  XXXXXXY
+YXXXXXXX  Y  YRRRRRRRRRRRRRRRRRRRRRRRY  Y  XXXXXXY
+YXXXXXXX  Y  YYYYYYYYYYYYYYYYYYYYYYYYY  Y  XXXXXXY
+YXXXXXXX                                   XXXXXXY
+YXXXXXXX                                   XXXXXXY
+YXXXXXXX                                   XXXXXXY
+YXXXXXXX                                   XXXXXXY
+YXXXXXXX     YYYYYYYYYYYYYYYYYYYYYYYYY     XXXXXXY
+YXXXXXXX     YRRRRRRRRRRRRRRRRRRRRRRRY     XXXXXXY
+YXXXXXXX     YR                     RY     XXXXXXY
+YXXXXXXX     YR                     RY     XXXXXXY
+YXXXXXXX     YR                     RY     XXXXXXY
+YXXXXXXX     YR                     RY     XXXXXXY
+YXXXXXXX     YYYYYYYYYYY   YYYYYYYYYYY     XXXXXXY
+YXXXXXXX       Y   Y   Y     Y   Y         XXXXXXY
+YXXXXXXX                                   XXXXXXY
+YXXXXXXX         Y   Y     Y   Y   Y       XXXXXXY
+YXXXXXXX     YYYYYYYYYYY   YYYYYYYYYYY     XXXXXXY
+YXXXXXXX     YR                     RY     XXXXXXY
+YXXXXXXX     YR                     RY     XXXXXXY
+YXXXXXXX     YR                     RY     XXXXXXY
+YXXXXXXX     YR                     RY     XXXXXXY
+YXXXXXXX     YRRRRRRRRRRRRRRRRRRRRRRRY     XXXXXXY
+YXXXXXXX     YYYYYYYYYYYYYYYYYYYYYYYYY     XXXXXXY
+YXXXXXXX                                   XXXXXXY
+YXXXXXXX                                   XXXXXXY
+YXXXXXXX                                   XXXXXXY
+YXXXXXXX                                   XXXXXXY
+YXXXXXXX  Y  YYYYYYYYYYYYYYYYYYYYYYYYY  Y  XXXXXXY
+YXXXXXXX  Y  YRRRRRRRRRRRRRRRRRRRRRRRY  Y  XXXXXXY
+YXXXXXXX  Y  Y                       Y  Y  XXXXXXY
+YXXXXXXX  Y  Y                       Y  Y  XXXXXXY
+Y         Y                             Y        Y
+Y         Y                             Y        Y
+Y    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    Y
+Y    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    Y
+Y    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    Y
+Y 4  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  3 Y
+Y                                                Y
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
