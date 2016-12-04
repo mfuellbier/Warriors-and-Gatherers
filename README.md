@@ -13,7 +13,7 @@ python createGameDat.py
 python gui.py
 
 ## Instructions
-Following files are for you to modify to improve your AI:
+Modify following files to improve your AI:
 * yourAI.py
 * yourFunctions.py
 
@@ -38,6 +38,7 @@ This file contains the challanges and saves the players progress
 ### gui.py
 GUI of the game.
 > python3 gui.py
+
 starts the game.
 ### classesGUI.py
 Classes of GUI, the game data and game stats
