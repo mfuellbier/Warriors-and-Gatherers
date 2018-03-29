@@ -670,12 +670,12 @@ class Player():
     
     def updateBoardForeward(self):
         if self.timer.get()<self.roundOfCurrentGame:    
-            self.timer.set(self.time.get()+1)
+            self.timer.set(self.timer.get()+1)
             self.updateBoard()
     
     def updateBoardBackward(self):
         if self.timer.get()>0:
-            self.timer.set(self.time.get()-1)
+            self.timer.set(self.timer.get()-1)
             self.backward = True
             self.updateBoard()
 
