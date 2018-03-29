@@ -666,7 +666,7 @@ def UserImportedAi(ai):
     return AiImported
 
 def cheat():
-    gameStats = pickle.load(open('game.dat','wb'))
+    gameStats = pickle.load(open('game.dat','rb'))
     for i in range(4):
         reward(gameStats)
     return None

@@ -7,6 +7,8 @@ from copy import *
 import pickle
 import shutil
 import platform
+import sys
+import functions
 
 gameDat = open('game.dat','wb')
 
@@ -34,3 +36,6 @@ for mapName in listOfMaps:
 
 # dump the file
 pickle.dump(gameStats,gameDat)
+
+if len(sys.argv) > 1 and sys.argv[1] == "cheat":
+    functions.cheat()

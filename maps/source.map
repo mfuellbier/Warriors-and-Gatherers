@@ -1,25 +1,44 @@
 mapVersion=3
-21
-Source
-8
-YYYYYYYYYYYYYYYYYYYYY
-YRYYYYR       RYYYYRY
-Y RYYYYRR   RRYYYYR Y
-Y   YYYYYY YYYYYY   Y
-YX   RRRYY YYRRR   XY
-Y X      R R      X Y
-Y                   Y
-Y                   Y
-Y        X X        Y
-Y 1 X    X X    X 2 Y
-YYYYYRR       RRYYYYY
-Y 3 X    X X    X 4 Y
-Y        X X        Y
-Y                   Y
-Y                   Y
-Y X      R R      X Y
-YX   RRRYY YYRRR   XY
-Y   YYYYYY YYYYYY   Y
-Y RYYYYRR   RRYYYYR Y
-YRYYYYR       RYYYYRY
-YYYYYYYYYYYYYYYYYYYYY
+40
+Circle
+22
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+YRRRRRR  YXXXXXXXYYYYYYXXXXXXXY  RRRRRRY
+YR       YXXXXYYYYYYYYYYYYXXXXY       RY
+YR       YXXYYYY        YYYYXXY       RY
+YR       YXY               YYXY       RY
+YR       YY                  YY       RY
+YR       Y       X    X       Y       RY
+Y             XXXX    XXXX             Y
+Y           XXXXXX    XXXXXX           Y
+YYYYYYY    XXXX          XXXX    YYYYYYY
+YXXXXY    XXX              XXX    YXXXXY
+YXXXY    XXX     YYYYYY     XXX    YXXXY
+YXXYY   XXX      YYYYYY      XXX    YXXY
+YXXY    XX       Y XX Y       XX    YXXY
+YXYY   XXX         XX         XXX   YYXY
+YXYY   XX          XX          XX   YYXY
+YXY    XX          XX          XX    YXY
+YYY   XXX  YYY   1 XX 3   YYY  XXX   YYY
+YYY        YY      XX      YY        YYY
+YYY        YYXXXXXXXXXXXXXXYY        YYY
+YYY        YYXXXXXXXXXXXXXXYY        YYY
+YYY        YY      XX      YY        YYY
+YYY   XXX  YYY   2 XX 4   YYY  XXX   YYY
+YXY    XX          XX          XX    YXY
+YXYY   XX          XX          XX   YYXY
+YXYY   XXX         XX         XXX   YYXY
+YXXY    XX       Y XX Y       XX    YXXY
+YXXY    XXX      YYYYYY      XXX   YYXXY
+YXXXY    XXX     YYYYYY     XXX    YXXXY
+YXXXXY    XXX              XXX    YXXXXY
+YYYYYYY    XXXX          XXXX    YYYYYYY
+Y           XXXXXX    XXXXXX           Y
+Y             XXXX    XXXX             Y
+YR       Y       X    X       Y       RY
+YR       YY                  YY       RY
+YR       YXYY               YXY       RY
+YR       YXXYYYY        YYYYXXY       RY
+YR       YXXXXYYYYYYYYYYYYXXXXY       RY
+YRRRRRR  YXXXXXXXYYYYYYXXXXXXXY  RRRRRRY
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
