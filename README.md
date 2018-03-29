@@ -8,9 +8,9 @@ A game for coder. Improve your AI to defeat the enemy.
 
 ## Instructions
 ### Init
-python createGameDat.py
+`python createGameDat.py`
 ### Play
-python gui.py
+`python gui.py`
 
 ## Instructions
 Modify following files to improve your AI:
@@ -37,7 +37,7 @@ Creates game.dat.
 This file contains the challanges and saves the players progress
 ### gui.py
 GUI of the game.
-> python3 gui.py
+`python3 gui.py`
 
 starts the game.
 ### classesGUI.py
