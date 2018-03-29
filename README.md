@@ -49,5 +49,7 @@ Sets conditions of game such as distribution of resources and strength and costs
 Also contains the logic of the game.
 
 
-## Disclaimer
+## Disclosure
 This is the entire code of the game. To sell this as a "real" game, one would have to obfuscate and compile it, such that the player would not be able to see the code of the enemies AI.
+
+This is one of my very first coding projects.
