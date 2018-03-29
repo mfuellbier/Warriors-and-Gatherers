@@ -612,28 +612,28 @@ def reward(gameStats):
          
         # Maps
         if gameStats.getChallenge() == 'Noob':
-            MapFile = open('/maps/circle.map','w')
+            MapFile = open('maps/circle.map','w')
             MapFile.write(gameStats.getRewardMap('circle'))
             MapFile.close()
-            MapFile = open('/maps/source.map','w')
+            MapFile = open('maps/source.map','w')
             MapFile.write(gameStats.getRewardMap('circle'))
             MapFile.close()
         elif gameStats.getChallenge() == 'Intermediate':
-            MapFile = open('/maps/labyrinth.map','w')
+            MapFile = open('maps/labyrinth.map','w')
             MapFile.write(gameStats.getRewardMap('labyrinth'))
             MapFile.close()
-            MapFile = open('/maps/backyard.map','w')
+            MapFile = open('maps/backyard.map','w')
             MapFile.write(gameStats.getRewardMap('backyard'))
             MapFile.close()
         elif gameStats.getChallenge() == 'Advanced':
-            MapFile = open('/maps/central.map','w')
+            MapFile = open('maps/central.map','w')
             MapFile.write(gameStats.getRewardMap('central'))
             MapFile.close()
-            MapFile = open('/maps/tight_corridors.map','w')
+            MapFile = open('maps/tight_corridors.map','w')
             MapFile.write(gameStats.getRewardMap('tight_corridors'))
             MapFile.close()
         elif gameStats.getChallenge() == 'Expert':
-            MapFile = open('/maps/garden.map','w')
+            MapFile = open('maps/garden.map','w')
             MapFile.write(gameStats.getRewardMap('garden'))
             MapFile.close()
         
@@ -664,3 +664,9 @@ def UserImportedAi(ai):
             AiImported = True
     
     return AiImported
+
+def cheat():
+    gameStats = pickle.load(open('game.dat','wb'))
+    for i in range(4):
+        reward(gameStats)
+    return None
