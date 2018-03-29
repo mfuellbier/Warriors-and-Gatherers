@@ -11,6 +11,9 @@ A game for coder. Improve your AI to defeat the enemy.
 `python createGameDat.py`
 ### Play
 `python gui.py`
+### Cheat
+To unlock all challenges and maps, do
+`python createGameDat.py cheat`
 
 ## Instructions
 Modify following files to improve your AI:
