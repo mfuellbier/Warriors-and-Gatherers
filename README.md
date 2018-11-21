@@ -24,17 +24,17 @@ Modify following files to improve your AI:
 Short description of the files
 ### AIs
 #### Players AI
-YourAI.py
-YourFunctions.py
+`YourAI.py`
+`YourFunctions.py`
 #### Enemies AI
-Noob.py
-NoobFunctions.py
-Intermediate.py
-IntermediateFunctions.py
-Expert.py
-ExpertFunctions.py
+`Noob.py`
+`NoobFunctions.py`
+`Intermediate.py`
+`IntermediateFunctions.py`
+`Expert.py`
+`ExpertFunctions.py`
 #### Dummy AI
-Dummy.py
+`Dummy.py`
 ### createGameDat.py
 Creates game.dat.
 This file contains the challanges and saves the players progress
